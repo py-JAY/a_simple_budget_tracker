@@ -1,3 +1,1 @@
-# a_simple_budget_tracker
-creating a simple budget tracker with python and sql, keep in mind this is an intermediate only project
-use python and sql only
+please use this code as a reference for your projects and do not edit anything
