@@ -1,4 +1,4 @@
-#things i need for this project: SQL, datetime and time modules and an IDE or python's IDLE
+#things i used for this project: SQL, datetime and time modules and an IDE or python's IDLE
 #table is to be created in mySql with the attributes of your choice:  for me it will be "Expenses" "Spent_on"  "Day" "Date".
 #expenses is an integer value of upto five digits and spent_on, Day, Date are string value of upto thirty characters (depending)
 
