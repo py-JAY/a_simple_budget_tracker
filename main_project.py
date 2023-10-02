@@ -12,7 +12,7 @@ years=('2023', '2024', '2025', '2026', '2027', '2028', '2029', '2030', '2031', '
 #UPDATE THIS TUPLE EVERY 100 YEARS lol
 
 def sqlConnect():#sends data to the sql object
-    return sqlt.connect(host="localhost",user="root",passwd="9125",database="expense_project") #modify this according to your SQL
+    return sqlt.connect(host="",user="",passwd="",database="") #modify this according to your SQL
 
 def checkInteger():#checks if the amount entered is integer or not
     while True:
